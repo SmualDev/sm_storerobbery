@@ -157,13 +157,7 @@ RegisterServerEvent('sm_storerobbery:safeLoot', function(storeId)
     })
 end)
 
---[[
-    storeSafesLooted[storeId] = true
-    exports.ox_inventory:AddItem(src, 'black_money', math.random(3000,6000))
-    TriggerClientEvent('ox_lib:notify', src, {
-        type = 'success',
-        description = 'Safe looted successfully.'
-    })]]--
+
 
 
 
