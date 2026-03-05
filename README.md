@@ -3,4 +3,6 @@ Simple Store robbery effect using Ox Target and bl-ui. All core features can be 
 
 Requires bs-ui fore core Ui features including lockpicking and Secuirty Hack
 
+[BS_UI](https://github.com/Byte-Labs-Studio/bl_ui)
+
 Dm me on discord for support(baconsthegreat)
